@@ -2,7 +2,7 @@ import { useState } from "react";
 import Swal from "sweetalert2";
 
 const NewsLetterForm = () => {
-    const [email, setEmail] = useState("evans@evans.com");
+    const [email, setEmail] = useState("");
     const [error, setError] = useState("");
     const customClass = {
         button: "transition-all duration-200 p-4 mt-5 bg-gradient-to-r bg-[#242742] hover:from-pink-400 hover:to-red-500 rounded-lg text-gray-200 font-bold",
