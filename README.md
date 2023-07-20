@@ -8,7 +8,7 @@ Este es mi solución para el desafío de Frontend Mentor "newsletter-sign-up-wit
 
 ## Demo en vivo
 
-Aquí puedes ver una [demo en vivo](link-a-la-demo-en-vivo) del proyecto.
+Aquí puedes ver una [demo en vivo](https://react-frontendmentor-newsletter.netlify.app/) del proyecto.
 
 ## Descripción
 
