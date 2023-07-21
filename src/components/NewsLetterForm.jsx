@@ -45,7 +45,7 @@ const NewsLetterForm = () => {
                 allowOutsideClick: false,
             });
             setError("");
-            // setEmail("");
+            setEmail("");
         }
     };
 
